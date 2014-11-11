@@ -1,0 +1,13 @@
+.donuts{
+  font: 1em sans-serif;
+}
+.donuts-total{
+  font-size: 1.5em;
+}
+.donuts-unit{
+  font-size: 0.8em;
+}
+.donuts-total-label{
+  font-size: 1.5em;
+  font-weight: bold;
+}

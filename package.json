@@ -1,0 +1,23 @@
+{
+  "name": "ss-donuts",
+  "version": "0.0.2",
+  "description": "A simple Donuts for D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://youseemii.pro/ss-donuts"
+  },
+  "keywords": [
+    "d3js",
+    "donuts"
+  ],
+  "dependencies": {
+    "d3": "~3.4.6",
+    "underscore": "~1.6.0"
+  },
+  "author": "Guillem CANAL <guillem@youseemii.fr>",
+  "license": "ISC"
+}
